@@ -1,0 +1,20 @@
+{
+  "skill_name": "reels-script-studio",
+  "skill_version": "3.0.0",
+  "evolution_version": "1.0.0",
+  "last_updated": "2026-07-17",
+  "user_preferences": {
+    "most_used_type": null,
+    "most_used_motion": null,
+    "most_used_platform": null,
+    "most_used_lighting": null,
+    "preferred_output_format": "Markdown完整版"
+  },
+  "usage_stats": {
+    "total_generations": 0,
+    "by_type": {},
+    "by_platform": {}
+  },
+  "experience_log": [],
+  "rejected_optimizations": []
+}
