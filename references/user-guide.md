@@ -66,15 +66,18 @@
 
 ---
 
-## 五、质量验收清单 / QA Checklist
+## 五、质量验收清单 / QA Checklist（数据基准）
 
-| 检查项 | 标准 | 不达标处理 |
+| 检查项 | 标准（数据基准） | 不达标处理 |
 |------|------|------|
-| 钩子强度 | 前3秒明确钩子 | 告知"加强第1镜"，进化记录 |
+| 黄金3秒钩子 | 第1镜命中一种钩子原型；前3秒完播目标≥45%（普通基准32%，进池概率<8%红线勿踩） | 重写第1镜，选反常识/痛点/数字冲击等 |
+| 情绪锚点 | 至少绑定1个共鸣情绪(欣赏美好/忧郁伤感/青春回忆/家国情怀/爽感逆袭) | 在对比/CTA 处补情绪落点 |
+| 转发钩子 | CTA 含1个社交货币钩子(争议/身份/囤货/共鸣) | 补"评论区吵/先收藏" |
 | 人物一致性 | 面部/体型不变 | 提示词加"面部一致，无变形" |
-| 光影真实度 | 阴影清晰无塑料感 | 加 `volumetric lighting, ray tracing` |
+| 光影真实度 | 阴影清晰无塑料感 | 加 `volumetric lighting, ray tracing`；生活流可选"真实粗糙" |
 | 专业运镜≥2种 | 机械臂/子弹时间等 | 选"综合型"运镜 |
 | 听感流畅 | 250–280 字/分 | 调整台词字数 |
+| 平台匹配 | 抖音带热点BGM、小红书带本地/搜索词、视频号强转发 | 按平台补爆款因子 |
 
 ---
 
@@ -82,15 +85,23 @@
 
 **中文**
 - **画质**：先生成静态图再转动态；初次用缓慢平移/小动作；固定角色参考图防变脸。
+- **黄金3秒**：用户停留仅 1.7s，前3秒完播<32% 进池概率<8% —— 开头必须"钉住眼球"，不要先铺氛围。
+- **真实感溢价**：精致人设失灵，"粗糙真实"成稀缺品；素颜 Vlog / 生活流反而涨流量，不必过度包装。
+- **热点 BGM**：用当周热门 BGM 曝光 4–7×；但热度窗口仅 7–15 天，过时即换。
+- **本地标签**：生活/探店带城市标签本地 CTR +55%，别忘了打 #城市。
 - **违禁词**：抖音严打"第一/最/国家级"；小红书对效果对比稍松；终检用巨量百应。
-- **人工审核不可替代**：品牌调性、文化语境、情感一致性需人把关。
-- **版权**：AI 生成画面也需确认版权合规。
+- **人工审核不可替代**：品牌调性、文化语境、情感一致性、钩子是否踩雷需人把关。
+- **版权**：AI 生成画面也需确认版权合规；BGM 注意商用授权。
 
 **English**
 - **Quality**: Generate a still first, then animate; start with slow pans/small moves; use a fixed character reference to avoid morphing.
-- **Banned words**: Douyin bans "first / best / national-grade"; Xiaohongshu is looser on comparisons; final check via Juliang Baiying.
-- **Human review is irreplaceable**: brand tone, cultural fit, emotional consistency need a human.
-- **Copyright**: even AI-generated visuals must be rights-cleared.
+- **Golden 3s**: avg dwell is 1.7s; <32% 3s-completion → <8% pool entry. Hook must grab instantly, not build mood first.
+- **Authenticity premium**: polished personas flop; "raw real" wins. Don't over-polish lifestyle Vlogs.
+- **Trending BGM**: trending audio = 4–7× exposure, but 7–15d window—swap when stale.
+- **Local tags**: city tags boost local CTR +55% for lifestyle/food—add #city.
+- **Banned words**: Douyin bans "first / best / national-grade"; Xiaohongshu is looser; final check via Juliang Baiying.
+- **Human review is irreplaceable**: brand tone, cultural fit, emotional consistency, hook risk need a human.
+- **Copyright**: AI visuals + BGM need rights clearance for commercial use.
 
 ---
 
