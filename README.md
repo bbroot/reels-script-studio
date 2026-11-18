@@ -1,4 +1,4 @@
-# Reels Script Studio / 15秒爆款短视频脚本生成器（数据增强版 v3.5）
+# Reels Script Studio / 15秒爆款短视频脚本生成器（数据增强版 v3.6）
 
 > 一个 OpenClaw Skill：用「选项式选择题」生成可直接用于 即梦 / 小云雀 / Seedance / 剪映 的 15 秒爆款短视频脚本，并随成品附「用户使用说明」。内置**数据驱动的爆款因子手册**（黄金3秒法则 / 五大爆款公式 / 四大共鸣情绪 / 七大共性规律 / 平台爆款率数据 / 转发钩子·热点BGM·本地标签策略，源自蝉妈妈·新榜 2025 实测），并带自进化机制，越用越懂你。
 
@@ -6,7 +6,9 @@ A QClaw/OpenClaw skill that generates production-ready 15-second viral short-vid
 
 ---
 
-## ✨ 功能特性 / Features（v3.5 数据增强）
+> 📖 **多平台安装**（WorkBuddy / 豆包工作 / Claude Code / Cursor / CodeBuddy）见 [INSTALL.md](INSTALL.md)
+
+## ✨ 功能特性 / Features（v3.6 数据增强）
 
 - **选项式交互**：用户只需回复 `1A,2E,3A,4C,5B,6ABC`（6 维含爆款杠杆），无需写提示词。
   Choice-based UI — reply with codes (6 dims incl. viral levers), no prompt engineering.
